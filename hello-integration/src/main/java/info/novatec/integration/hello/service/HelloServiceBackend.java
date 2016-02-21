@@ -17,7 +17,7 @@ public class HelloServiceBackend implements HelloService {
 
 	@Override
 	public String sayHelloToIntegration(String name) {
-		LOGGER.info("Called sayHelloToAllOthers({})", name);
+		LOGGER.info("Called sayHelloToIntegration('{}')", name);
 		
 		return String.format(greetingMessage, name);
 	}

@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>info.novatec</groupId>
-	<artifactId>hello-integration-advanced</artifactId>
+	<artifactId>integration-calculator</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-	<name>hello-integration-advanced</name>
-	<description>Spring Integration Hello World Project</description>
+	<name>integration-calculator</name>
+	<description>Spring Integration Calculator Project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
